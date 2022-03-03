@@ -6,6 +6,8 @@
 5. --
 6. --
 
+Explication: 
+
 ### Quel sentiment ressenti lors des experimentations de chaque oeuvre (wtf i dunno how to word it)
 * --
 
