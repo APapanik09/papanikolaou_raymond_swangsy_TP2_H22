@@ -10,7 +10,12 @@
 * L'ambiance qui change quand les élèves devienne de plus en plus isoler.
 
 ### Installation en cours de l'oeuvre dans les studios (photos)
+Bureau de travail:
 ![installation_oeuvre](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/installation_oeuvre.png)
+Endroit principal:
+![endroit_principal](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/endroit_principal.png)
+Installation projecteur:
+![in](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)g
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 ![schema_plantation](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)
