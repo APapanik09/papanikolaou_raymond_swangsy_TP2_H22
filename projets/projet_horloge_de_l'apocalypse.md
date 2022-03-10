@@ -16,8 +16,9 @@
 * Les créateurs de ce projet ont décidé de représenter dans chaque scène une sorte d'évolution, celle de l'être humain au fil de l'histoire. 
 * Chaque fois que l'aiguille avance, les scènes audiovisuelles deviennent de plus en plus cauchemardesques/dystopiques pour ensuite finir sur une scène qui semblerait représenter une version de l'enfer. 
 
-### Installation en cour de l'oeuvre dans les studios (photos)
+### Installation en cours de l'oeuvre dans les studios (photos)
 --
+* ![hautparleur](/projets/media/media_horloge_apo/horloge_hautparleur.jpg)
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 --
