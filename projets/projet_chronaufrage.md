@@ -12,7 +12,29 @@
 * Dans ce projet, le temp est représenter avec l'eau
 
 ### Installation en cour de l'oeuvre dans les studios (photos)
---
+
+Mise en place dans le studio
+</br>
+<img src="../media/media_chronaufrage/photo_chronaufrage_mise_place.jpeg" width="700" height="400">
+</br>
+
+Projecteur utilisé pour le projet
+</br>
+<img src="../media/media_chronaufrage/photo_chronaufrage_ultrawide-projecteurs.jpeg" width="400" height="600">
+</br>
+
+Projecteur utilisé pour le projet
+</br>
+<img src="../media/media_chronaufrage/photo_chronaufrage_tableaux.jpeg" width="700" height="400">
+</br>
+
+Éléments utiliser pour le placement de l'oeuvre
+</br>
+<img src="../media/media_chronaufrage/photo_chronaufrage_fil_peche_01.png" width="400" height="700">
+</br>
+<img src="../media/media_chronaufrage/photo_chronaufrage_crochet.png" width="400" height="700">
+
+Source des images: https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 Shéma de plantation
