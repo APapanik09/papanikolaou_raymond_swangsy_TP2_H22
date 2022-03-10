@@ -42,12 +42,12 @@
  ![plantation](../media/media_horloge_apo/horloge_plantation.png)
 
 ### Rôle de l'interacteur.trice
---
+
 * L'intéracteur fait tourner la grande aiguille de l'horloge pour faire avancer le temps et en conséquent changer les scènes.
 * À la fin il doit répondre au téléphone aussi. 
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
---
+
 * Animation 2D
 * Conception Sonore
 * Programmation interactive et base de données
