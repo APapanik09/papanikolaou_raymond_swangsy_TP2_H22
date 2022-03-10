@@ -1,1 +1,0 @@
-Photographie du projet Chronaufrage
