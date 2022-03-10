@@ -11,14 +11,21 @@
 
 ### Installation en cours de l'oeuvre dans les studios (photos)
 Bureau de travail:
-![installation_oeuvre](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/installation_oeuvre.png)
+
+![installation_oeuvre](../media/media_distortion/installation_oeuvre.png)
+
 Endroit principal:
-![endroit_principal](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/endroit_principal.png)
+
+![endroit_principal](../media/media_distortion/endroit_principal.png)
+
 Installation projecteur:
-![in](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)g
+
+![installaion_projecteur](../media/media_distortion/installation_projecteur.png)
+
+
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
-![schema_plantation](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)
+![schema_plantation](../media/media_distortion/schema_plantation.png)
 Source :
 https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
 
