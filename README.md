@@ -5,3 +5,6 @@
 
 ### lien vers projets 3e années
 * https://tim-montmorency.com/2022/
+
+### lien vers la grille de cours de la technique
+* https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
