@@ -33,7 +33,7 @@
 **Logiciel Max8** <br>
  ![maxinter](../media/media_horloge_apo/horloge_max_inter.jpg)
  
-**OBS + MadMapper (source: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html) <br>
+**OBS + MadMapper** (source: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html) <br>
  ![horlogeOBS](../media/media_horloge_apo/horloge_OBS_madmapper.png)
 
 ### Schéma de l'installation prévue (source: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html) <br>
