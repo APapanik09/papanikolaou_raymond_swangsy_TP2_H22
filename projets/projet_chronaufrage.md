@@ -15,7 +15,8 @@
 --
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
---
+Shéma de plantation
+<img src="../media/media_chronaufrage.png" width="400" height="200">
 
 ### Rôle de l'interacteur.trice
 --
