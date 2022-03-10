@@ -45,7 +45,7 @@
 * À la fin il doit répondre au téléphone aussi. 
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
-** --
+--
 * Animation 2D
 * Conception Sonore
 * Programmation interactive et base de données
