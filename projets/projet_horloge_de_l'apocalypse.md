@@ -32,12 +32,20 @@
  
 **Logiciel Max8** <br>
  ![maxinter](../media/media_horloge_apo/horloge_max_inter.jpg)
+ 
+**OBS + MadMapper (source: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html) <br>
+ ![horlogeOBS](../media/media_horloge_apo/horloge_OBS_madmapper.png)
 
-### Schéma de l'installation prévue (schéma de plantation + source)
- ![plantation](../media/media_horloge_apo/horloge_plantation.jpg)
+### Schéma de l'installation prévue (source: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html) <br>
+ ![plantation](../media/media_horloge_apo/horloge_plantation.png)
 
 ### Rôle de l'interacteur.trice
 --
+* L'intéracteur fait tourner la grande aiguille de l'horloge pour faire avancer le temps et en conséquent changer les scènes.
+* À la fin il doit répondre au téléphone aussi. 
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
 ** --
+* Animation 2D
+* Conception Sonore
+* Programmation interactive et base de données
