@@ -10,10 +10,11 @@
 * L'ambiance qui change quand les élèves devienne de plus en plus isoler.
 
 ### Installation en cours de l'oeuvre dans les studios (photos)
---
+![installation_oeuvre](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/installation_oeuvre.png)
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 ![schema_plantation](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)
+Source :
 https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
 
 ### Rôle de l'interacteur.trice
