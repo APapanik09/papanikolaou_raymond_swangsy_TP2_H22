@@ -19,6 +19,10 @@
 ### Installation en cours de l'oeuvre dans les studios (photos)
 --
 * ![hautparleur](../media/media_horloge_apo/horloge_hautparleur.jpg)
+* ![projecteur](../media/media_horloge_apo/horloge_projecteur.jpg)
+* ![colonne](../media/media_horloge_apo/horloge_colonne.jpg)
+* ![projection](../media/media_horloge_apo/horloge_projection.jpg)
+* ![maxinter](../media/media_horloge_apo/horloge_max_inter.jpg)
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 --
