@@ -2,7 +2,8 @@
 * --
 
 ### Créateurs / Créatrices
-* --
+* William Dubois
+* Ghislain Lacombe
 
 ### Thème du temps exploité dans l'oeuvre
 * --
