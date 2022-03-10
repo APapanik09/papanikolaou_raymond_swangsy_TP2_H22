@@ -14,6 +14,7 @@
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 ![schema_plantation](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)
+https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
 
 ### Rôle de l'interacteur.trice
 Le role de l'interacteur/trice est de ressentir l'isolation de la pandémie pour ensuite comprendre l'empleure de l'impact imposer sur les élèves concernés.
