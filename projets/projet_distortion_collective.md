@@ -26,6 +26,15 @@ Installation projecteur:
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 ![schema_plantation](../media/media_distortion/schema_plantation.png)
+
+Schéma de branchement:
+
+![schema_de_branchement](../media/media_distortion/schema_de_branchement.png)
+
+Plan technique:
+
+![plan_technique](../media/media_distortion/plan.png)
+
 Source :
 https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
 
