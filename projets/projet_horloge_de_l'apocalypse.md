@@ -18,15 +18,19 @@
 
 ### Installation en cours de l'oeuvre dans les studios (photos)
 --
-* Haut-parleurs avec toile
+**Haut-parleurs avec toile
  ![hautparleur](../media/media_horloge_apo/horloge_hautparleur.jpg)
-* Projecteur
- ![projecteur](../media/media_horloge_apo/horloge_projecteur.jpg)
-* Colonne + Horloge
+ 
+**Projecteur
+ ![projecteur](../media/media_horloge_apo/horloge_projecteur.jpg) 
+ 
+**Colonne + Horloge
  ![colonne](../media/media_horloge_apo/horloge_colonne.jpg)
-* Projections
+ 
+**Projections
  ![projection](../media/media_horloge_apo/horloge_projection.jpg)
-* Logiciel Max8
+ 
+**Logiciel Max8
  ![maxinter](../media/media_horloge_apo/horloge_max_inter.jpg)
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
