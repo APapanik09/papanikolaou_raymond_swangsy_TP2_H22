@@ -19,5 +19,6 @@
 Le role de l'interacteur/trice est de ressentir l'isolation de la pandémie pour ensuite comprendre l'empleure de l'impact imposer sur les élèves concernés.
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
-** Programmation interactive et bases de données
-
+* Programmation interactive et bases de données
+* Programmation serveur Web
+* Optimisation Web
