@@ -29,7 +29,7 @@ Installation projecteur:
 
 Schéma de branchement:
 
-![schema_de_branchement](../media/media_distortion/schema_de_branchement.png)
+![schema_de_branchement](../media/media_distortion/schéma_de_branchement.png)
 
 Plan technique:
 
