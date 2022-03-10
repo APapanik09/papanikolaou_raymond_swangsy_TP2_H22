@@ -9,11 +9,11 @@
 * Le thème du temps est exploité en montrant les travaux qui s'empilent de plus en plus.
 * L'ambiance qui change quand les élèves devienne de plus en plus isoler.
 
-### Installation en cour de l'oeuvre dans les studios (photos)
+### Installation en cours de l'oeuvre dans les studios (photos)
 --
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
-![schema](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/upload/main/media/media_distortion#:~:text=choose%20your%20files-,schema_plantation,-.png)
+![schema_plantation](https://github.com/APapanik09/papanikolaou_raymond_swangsy_TP2_H22/blob/main/media/media_distortion/schema_plantation.png)
 
 ### Rôle de l'interacteur.trice
 Le role de l'interacteur/trice est de ressentir l'isolation de la pandémie pour ensuite comprendre l'empleure de l'impact imposer sur les élèves concernés.
