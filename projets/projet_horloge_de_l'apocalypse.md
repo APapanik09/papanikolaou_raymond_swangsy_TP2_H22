@@ -34,7 +34,7 @@
  ![maxinter](../media/media_horloge_apo/horloge_max_inter.jpg)
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
---
+ ![plantation](../media/media_horloge_apo/horloge_plantation.jpg)
 
 ### Rôle de l'interacteur.trice
 --
