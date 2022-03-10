@@ -13,7 +13,7 @@
 --
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
---
+![schema](schema_plantation.png)
 
 ### Rôle de l'interacteur.trice
 Le role de l'interacteur/trice est de ressentir l'isolation de la pandémie pour ensuite comprendre l'empleure de l'impact imposer sur les élèves concernés.
