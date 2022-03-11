@@ -25,7 +25,7 @@ Equipement:
 
 Plantation:
 
-![plantation_01](../main/media/medias_chere_sasha/plantation_01.jpg)
+![plantation_01](../media/medias_chere_sasha/plantation_01.jpg)
 ![plantation_02](../media/medias_chere_sasha/plantation_02.jpg)
 
 Scenarimage:
