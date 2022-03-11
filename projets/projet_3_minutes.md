@@ -17,13 +17,13 @@ Couloir
 
 Ordinateur
 </br>
-<img src="../media/media_3_minutes/photo_3_minutes_ordi.png" width="400" height="500">
+<img src="../media/media_3_minutes/photo_3_minutes_ordi.png" width="600" height="500">
 </br>
 
 Vue dans le casque de réalité virtuelle
 </br>
-<img src="../media/media_3_minutes/photo_3_minute_realite_virtuelle.png" width="400" height="500">
-
+<img src="../media/media_3_minutes/photo_3_minute_realite_virtuelle.png" width="600" height="500">
+Source : "https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html"
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 <img src="../media/media_3_minutes/schema_plantation.png" width="400" height="500">
