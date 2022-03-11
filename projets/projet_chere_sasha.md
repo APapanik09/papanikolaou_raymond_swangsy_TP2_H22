@@ -17,20 +17,20 @@
 
 Budget:
 
-![timeline](../media/medias_chere_sasha/BUDGET.jpeg)
+![BUDGET](../media/medias_chere_sasha/BUDGET.jpeg)
 
 Equipement:
 
-![timeline](../media/medias_chere_sasha/equipement.jpeg)
+![equipement](../media/medias_chere_sasha/equipement.jpeg)
 
 Plantation:
 
-![timeline](../media/medias_chere_sasha/plantation_01.jpeg)
-![timeline](../media/medias_chere_sasha/plantation_02.jpeg)
+![plantation_01](../media/medias_chere_sasha/plantation_01.jpeg)
+![plantation_02](../media/medias_chere_sasha/plantation_02.jpeg)
 
 Scenarimage:
 
-![timeline](../media/medias_chere_sasha/scenarimage.jpeg)
+![scenarimage](../media/medias_chere_sasha/scenarimage.jpeg)
 
 Brouillon du timeline:
 
