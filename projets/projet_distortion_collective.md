@@ -7,7 +7,7 @@
 
 ### Thème du temps exploité dans l'oeuvre
 * Le thème du temps est exploité en montrant les travaux qui s'empilent de plus en plus.
-* L'ambiance qui change quand les élèves devienne de plus en plus isoler.
+* L'ambiance qui change quand les élèves deviennent de plus en plus isolés.
 
 ### Installation en cours de l'oeuvre dans les studios (photos)
 Bureau de travail:
@@ -39,7 +39,7 @@ Source :
 https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
 
 ### Rôle de l'interacteur.trice
-Le role de l'interacteur/trice est de ressentir l'isolation de la pandémie pour ensuite comprendre l'empleure de l'impact imposer sur les élèves concernés.
+Le rôle de l'interacteur/trice est de ressentir l'isolation de la pandémie pour ensuite comprendre l'ampleur de l'impact imposé sur les élèves concernés.
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
 * Programmation interactive et bases de données
