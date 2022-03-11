@@ -23,7 +23,7 @@ Explication:
 
 ### Rôle joué dans un tel projet
 
-Les rôle que j'aurais joué...
+Les rôles que j'aurais joué...
 
 * Monteure vidéo
 * Animateur
