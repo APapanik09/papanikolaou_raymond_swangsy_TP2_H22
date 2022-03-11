@@ -19,4 +19,12 @@
 L'intéracteur.trice porte un casque vr et d'un bord celui-ci va prendre la place d'un élève qui va jouer au ballon chasseur. Ensuite ce dernier va ce mettre dans un casier, toujours avec un casque vr, et va regarder les autres élèves jouer pendant qu'il sera coincer dans un casier isoler, a part des autres. En autre, le rôle de l'interacteur.trice est indispensable dans le projet, puisque ce dernier doit porter le casque vr afin de voir et expérimenter a 100% le projet
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
-** --
+* Réalité virtuelle
+* Animation 3D
+* Programmation interactive et bases de données
+
+Réalité virtuelle : Le projet se retrouve en majorité en vr et l'interacteur.trice se retrouve à mettre un casque vr afin d'expérimenter ce projet à son plein potentiel, donc le cours de réalité virtuelle est évidement crutial pour ce projet.
+
+Animation 3D : malgré qu'il n'est pas impossible d'utiliser du 2D dans la réalité virtuel, le but du vr est de rendre l'immersion de l'utilisateur le plus réelle possible, donc inclure de l'animation 3D dans le vr est effectivement nécessaire pour ce projet
+
+Programmation interactive et bases de données : ce cours permet à l'élève, a travers la programmation, de controler l'interactivité des animations créer par ce dernier
