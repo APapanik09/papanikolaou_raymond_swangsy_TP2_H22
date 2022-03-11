@@ -12,6 +12,18 @@
 
 ### Installation en cours de l'oeuvre dans les studios (photos)
 
+Décors de l'emplacement de travail:
+
+![equipement](../media/medias_chere_sasha/decors.jpg)
+
+Projecteure:
+
+![equipement](../media/medias_chere_sasha/projecteur.jpg)
+
+Emplacement:
+
+![equipement](../media/medias_chere_sasha/emplacement.png)
+
 
 ### Schéma de l'installation prévue (schéma de plantation + source)
 
