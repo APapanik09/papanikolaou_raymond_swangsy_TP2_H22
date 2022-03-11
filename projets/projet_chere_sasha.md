@@ -54,4 +54,6 @@ Source: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 Le Rôle de l'interacteur.trice est de découvrir que les deux vies projetées devant eux sont différents passages de la vie de la même personne.
 
 ### 3 cours nécessaires du programme pour réaliser l'oeuvre
-** --
+* Domaine du multimédia
+* Photoshop
+* Conception sonore
