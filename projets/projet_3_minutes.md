@@ -27,4 +27,4 @@ Réalité virtuelle : Le projet se retrouve en majorité en vr et l'interacteur.
 
 Animation 3D : malgré qu'il n'est pas impossible d'utiliser du 2D dans la réalité virtuel, le but du vr est de rendre l'immersion de l'utilisateur le plus réelle possible, donc inclure de l'animation 3D dans le vr est effectivement nécessaire pour ce projet
 
-Programmation interactive et bases de données : ce cours permet à l'élève, a travers la programmation, de controler l'interactivité des animations créer par ce dernier
+Programmation interactive et bases de données : ce cours permet à l'élève, à travers la programmation, de controler l'interactivité des animations créer par ce dernier. Ce cours couvre la programmation et les bases de données, qui aide énormément à ajouter de l'intéractivité a l'animation 3D et à rendre la réalité virtuelle fonctionelle.
