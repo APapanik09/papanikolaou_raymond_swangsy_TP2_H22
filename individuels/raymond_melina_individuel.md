@@ -8,6 +8,8 @@
 
 Explication: 
 
+J'ai mis l'horloge de l'apocalypse au début de ma liste puisque, j'ai adoré le concept des aiguilles et que quand tu les tournes tu changes d'environnement. Aussi la dernière heure qui est l’heure de l’apocalypse montre beaucoup sur ce que nous avons à apprendre sur la société d’aujourd’hui. Le projet génère en moi une excitation à le voir  finalisé.
+
 ### Quel sentiment ressenti lors des expérimentations de chaque oeuvre 
 * Chère Sasha: J'ai ressenti un sentiment de nostalgie et en même temps un sentiment de réconfort, parce que la situation présente est très familière pour moi puisque j'ai fait   des études en ligne. J'ai donc ressenti de la nostalgie, car cela me manque un peu d'être chez moi 24h sur 7, mais en même temps du réconfort puisque c'était un mode de vie       Toxique pour moi.
 
